@@ -16,5 +16,6 @@ Készítsen legalább két osztályt az Ön által választott témában a köve
 •	készítsen tesztkódot amelyben példányosítja az objektumokat  
 •	a tesztkódba jelentkező kivételeket kezelje, és a hibaüzeneteket jelenítse meg a konzolon és az output ablakban is  
 •	a tesztkódban legyen egy elágazás, és abban adatkiírás a képernyőre  
+•	az osztályok kódjában legyenek megjegyzések.
 
 A feladat ezen szempontok alapján lesz pontozva!

@@ -10,12 +10,12 @@ Készítsen legalább két osztályt az Ön által választott témában a köve
 •	legyen az osztályoknak olvasható tulajdonsága (ha lehetséges számított adat is) (get)  
 •	legyen a feladatban módosítható tulajdonság (set)  
 •	a konstruktorban a hibás adatokat saját kivétel dobással kezelje (throw)  
-•	a módosítható tulajdonságnál is legyen hibás adat kezelés (throw)  
-•	a feladat megoldásában írjon metódus  
+•	a módosítható tulajdonságnál is legyen hibás adat kezelés vagy más számított adat esetén ha szükséges (throw)  
+•	a feladat megoldásában írjon metódust  
 •	a feladat megoldása során használjon ToString metódust  
-•	készítsen tesztkódot amelyben példányosítja az objektumokat  
+•	készítsen tesztkódot amelyben példányosítson két objektumokat  
+•	a tesztkódban legyen egy elágazás, amellyel összeshasonlítja a két objektum valamilyen tulajdonságát és ezután megjeleníti az egyik objektum adatait
 •	a tesztkódba jelentkező kivételeket kezelje, és a hibaüzeneteket jelenítse meg a konzolon és az output ablakban is  
-•	a tesztkódban legyen egy elágazás, és abban adatkiírás a képernyőre  
 •	az osztályok kódjában legyenek megjegyzések.
 
 A feladat ezen szempontok alapján lesz pontozva!

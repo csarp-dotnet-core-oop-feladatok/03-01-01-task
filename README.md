@@ -14,7 +14,7 @@ Készítsen legalább két osztályt az Ön által választott témában a köve
 •	a feladat megoldásában írjon metódust  
 •	a feladat megoldása során használjon ToString metódust  
 •	készítsen tesztkódot amelyben példányosítson két objektumokat  
-•	a tesztkódban legyen egy elágazás, amellyel összeshasonlítja a két objektum valamilyen tulajdonságát és ezután megjeleníti az egyik objektum adatait
+•	a tesztkódban legyen egy elágazás, amellyel összeshasonlítja a két objektum valamilyen tulajdonságát és ezután megjeleníti az egyik objektum adatait  
 •	a tesztkódba jelentkező kivételeket kezelje, és a hibaüzeneteket jelenítse meg a konzolon és az output ablakban is  
 •	az osztályok kódjában legyenek megjegyzések.
 

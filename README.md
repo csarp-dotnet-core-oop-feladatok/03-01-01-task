@@ -33,5 +33,5 @@ A feladat ezen szempontok alapján lesz pontozva:
 1/1	készítsen tesztkódot amelyben példányosítja az objektumokat  
 1/1	a tesztkódba jelentkező kivételeket kezelje, és a hibaüzeneteket jelenítse meg a konzolon és az output ablakban is  
 1/1	a tesztkódban legyen egy elágazás, és abban adatkiírás a képernyőre  
-1/1	az osztályok kódjában legyenek megjegyzések.
+1/1	az osztályok kódjában legyenek megjegyzések.  
 14/14
